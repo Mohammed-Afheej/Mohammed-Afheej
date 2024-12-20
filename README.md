@@ -15,3 +15,4 @@ ___________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/358e5fa8-8c70-48b4-8801-ced8faa86b39)
 
 
+black --check --diff ./*.py
