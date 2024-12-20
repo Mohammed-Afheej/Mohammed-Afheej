@@ -14,5 +14,4 @@ ___________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/358e5fa8-8c70-48b4-8801-ced8faa86b39)
 
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16829700)
-# TEJ2O ⇢ Unit #2-13
+
